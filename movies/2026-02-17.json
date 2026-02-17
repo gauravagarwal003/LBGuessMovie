@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-17",
+  "movieID": "pearl-2022",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "12",
+      "date": "August 15, 2022",
+      "username": "ushinotokimairi",
+      "numLikes": "4758",
+      "rating": "",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/6/5/6/5/6/1/6/shard/avtr-0-80-0-80-crop.jpg?v=d5456323d2",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>country girls make do!</p> ",
+      "link": "https://letterboxd.com/ushinotokimairi/film/pearl-2022/"
+    },
+    {
+      "num_comments": "18",
+      "date": "September 15, 2022",
+      "username": "Emma 🔆",
+      "numLikes": "26563",
+      "rating": "4.0",
+      "profilePhotoLink": "https://secure.gravatar.com/avatar/51cbf9a57fd8578b7fbdcf386f39e082?rating=PG&size=80&border=&default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80-CTtJ8HSs.png",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>Babe wake up, new A24 dinner monologue just dropped</p> ",
+      "link": "https://letterboxd.com/seahorseronan/film/pearl-2022/"
+    },
+    {
+      "num_comments": "5",
+      "date": "September 16, 2022",
+      "username": "alyssa rae thomas",
+      "numLikes": "6382",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/3/4/4/4/4/6/shard/http___pbs.twimg.com_profile_images_1649857525091581952_qWGIbsYC-0-80-0-80-crop.jpg?v=9c662a8385",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>they hate her for her horny autistic girl swag</p> ",
+      "link": "https://letterboxd.com/alyssaraetho/film/pearl-2022/"
+    },
+    {
+      "num_comments": "8",
+      "date": "October 6, 2022",
+      "username": "lucy",
+      "numLikes": "7774",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/3/2/9/4/3/5/shard/avtr-0-80-0-80-crop.jpg?v=53ef80d908",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>autism be damned that girl can kill</p> ",
+      "link": "https://letterboxd.com/ttyllucy/film/pearl-2022/"
+    },
+    {
+      "num_comments": "4",
+      "date": "October 29, 2022",
+      "username": "maria",
+      "numLikes": "7405",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/4/0/1/2/8/4/shard/avtr-0-80-0-80-crop.jpg?v=d68e999a95",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>rumor has it mia goth is still smiling at the camera to this day</p> ",
+      "link": "https://letterboxd.com/usercillian/film/pearl-2022/"
+    }
+  ],
+  "affiliate_links": {}
+}
