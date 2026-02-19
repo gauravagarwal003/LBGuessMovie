@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-19",
+  "movieID": "ant-man-and-the-wasp",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "0",
+      "date": "July 19, 2024",
+      "username": "alexa🪼🫧🪩",
+      "numLikes": "117",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/6/5/3/9/7/3/6/shard/avtr-0-80-0-80-crop.jpg?v=3538e0fff3",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>i guess size does matter🤷🏼‍♀️</p> ",
+      "link": "https://letterboxd.com/alexxaaa/film/ant-man-and-the-wasp/"
+    },
+    {
+      "num_comments": "2",
+      "date": "July 22, 2018",
+      "username": "sree",
+      "numLikes": "1444",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/2/9/3/8/1/7/shard/avtr-0-80-0-80-crop.jpg?v=180b4e7cdc",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>do you guys just put the word quantum in front of everything</p> ",
+      "link": "https://letterboxd.com/tototoro/film/ant-man-and-the-wasp/1/"
+    },
+    {
+      "num_comments": "2",
+      "date": "August 2, 2018",
+      "username": "saskia 🦈",
+      "numLikes": "256",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/4/2/9/8/3/4/shard/http___pbs.twimg.com_profile_images_1037469959125954561_JfcSgJcD-0-80-0-80-crop.jpg?v=277592dd46",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>i was having such a great time until that god dAMN POST CREDIT SCENE</p> ",
+      "link": "https://letterboxd.com/wolvereign/film/ant-man-and-the-wasp/"
+    },
+    {
+      "num_comments": "2",
+      "date": "June 26, 2018",
+      "username": "matt lynch",
+      "numLikes": "1948",
+      "rating": "3.5",
+      "profilePhotoLink": "https://secure.gravatar.com/avatar/fb4cae3779fcedc4f707ee7359b12a3e?rating=PG&size=80&border=&default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80-CTtJ8HSs.png",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>The big stuff gets small and the small stuff gets big thing never gets old, although is it just me or could all of this have been avoided if the \"villains\" had just asked nicely for help? Ah, who cares, this is a blast. Shrinky car chase!</p> ",
+      "link": "https://letterboxd.com/colonelmortimer/film/ant-man-and-the-wasp/"
+    },
+    {
+      "num_comments": "6",
+      "date": "July 6, 2018",
+      "username": "chloe 💓",
+      "numLikes": "3576",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/4/0/7/7/3/8/shard/avtr-0-80-0-80-crop.jpg?v=22858b36ba",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>paul rudd crying in bed while reading ‘the fault in our stars’ is something i never knew i needed to see until now</p> ",
+      "link": "https://letterboxd.com/chloeac/film/ant-man-and-the-wasp/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/4aDTCI2",
+    "prime-video": "https://amzn.to/4qN5fTd"
+  }
+}
