@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-21",
+  "movieID": "murder-mystery",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "11",
+      "date": "June 15, 2019",
+      "username": "elvisthealien",
+      "numLikes": "1230",
+      "rating": "1.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/1/2/7/0/3/3/8/shard/http___pbs.twimg.com_profile_images_1123694274971938816_fw8_PJcS-0-80-0-80-crop.jpg?v=20475e762d",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>This is the type of movie you put on in the background when you wanna bang someone</p> ",
+      "link": "https://letterboxd.com/elvisthealien/film/murder-mystery/"
+    },
+    {
+      "num_comments": "6",
+      "date": "June 17, 2019",
+      "username": "Jacky",
+      "numLikes": "42",
+      "rating": "1.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/3/6/2/0/8/1/shard/avtr-0-80-0-80-crop.jpg?v=53f7eefa53",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Honest contender for the worst title of the year.</p> ",
+      "link": "https://letterboxd.com/realjackattack/film/murder-mystery/"
+    },
+    {
+      "num_comments": "0",
+      "date": "January 21, 2023",
+      "username": "MarMar",
+      "numLikes": "260",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/7/0/5/6/0/7/shard/avtr-0-80-0-80-crop.jpg?v=0eb4c4f8e5",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>This is the type of <i>Knives Out </i>that you would buy on SHEIN but it's still a decent purchase.</p> ",
+      "link": "https://letterboxd.com/mardarrius/film/murder-mystery/1/"
+    },
+    {
+      "num_comments": "0",
+      "date": "June 19, 2019",
+      "username": "anthony",
+      "numLikes": "187",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/6/9/2/7/6/3/shard/avtr-0-80-0-80-crop.jpg?v=7b02c6b468",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>you know what the real mystery is? jennifer anniston, a 50 year old woman but still looks like she's in her early 20s</p> ",
+      "link": "https://letterboxd.com/armandhammer/film/murder-mystery/"
+    },
+    {
+      "num_comments": "0",
+      "date": "June 18, 2019",
+      "username": "Nicholas Faron",
+      "numLikes": "110",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/5/1/4/0/5/8/shard/avtr-0-80-0-80-crop.jpg?v=f6b4fa8c1c",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Adam Sandler seems like a guy who really is always tired and hungry. For that I got to say, I sort of love him and couldn't relate more.</p> ",
+      "link": "https://letterboxd.com/nbfnicholas/film/murder-mystery/"
+    }
+  ],
+  "affiliate_links": {}
+}
