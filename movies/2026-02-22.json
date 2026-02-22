@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-22",
+  "movieID": "john-carter",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "2",
+      "date": "January 14, 2024",
+      "username": "Brandon Wade",
+      "numLikes": "46",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/5/6/7/2/9/4/7/shard/avtr-0-80-0-80-crop.jpg?v=c394902b45",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Did this movie really need to cost $300 million?</p> ",
+      "link": "https://letterboxd.com/biwinning/film/john-carter/"
+    },
+    {
+      "num_comments": "2",
+      "date": "January 3, 2024",
+      "username": "Jaden",
+      "numLikes": "30",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/7/4/2/9/9/8/shard/avtr-0-80-0-80-crop.jpg?v=b3dbc903b0",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>The craziest thing a white boy ever did was challenge the world around him.</p> ",
+      "link": "https://letterboxd.com/jderko/film/john-carter/1/"
+    },
+    {
+      "num_comments": "3",
+      "date": "January 1, 2017",
+      "username": "Jay Cheel",
+      "numLikes": "26",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/7/6/2/3/shard/http___pbs.twimg.com_profile_images_1075983803548495872_mWtZ15FJ-0-80-0-80-crop.jpg?v=1782930059",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>It's not bad. There's just something about it that doesn't click. Uninspired visuals for one. Also, it's a half an hour too long. But again, it's not BAD.</p> ",
+      "link": "https://letterboxd.com/jay_c/film/john-carter/1/"
+    },
+    {
+      "num_comments": "0",
+      "date": "March 24, 2024",
+      "username": "dreoyer",
+      "numLikes": "22",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/0/1/8/0/3/8/3/shard/avtr-0-80-0-80-crop.jpg?v=ace9d68f01",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>One of my favourite movies as a kid, I don't really understand the hate this movie gets. And the fact that this is the biggest box office flop of all time is just insane. Perhaps it's because of its stupid name.</p> ",
+      "link": "https://letterboxd.com/dreoyer/film/john-carter/"
+    },
+    {
+      "num_comments": "3",
+      "date": "July 25, 2020",
+      "username": "Matt Singer",
+      "numLikes": "337",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/8/7/8/6/shard/avtr-0-80-0-80-crop.jpg?v=9f674af199",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Watching this for the first time since theaters my opinion remains totally unchanged: An extremely earnest and faithful adaptation of its source material about a guy who jumps around Mars like a human flea; with a deeply miscast hero (and I love me some <i>Friday Night Lights</i> so it pains me to say that) and a female lead who completely outshines him and steals the movie to the point where I remain mystified she didn’t go on to massive stardom.</p> ",
+      "link": "https://letterboxd.com/superpulse/film/john-carter/1/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/4qPDQA3",
+    "prime-video": "https://amzn.to/4c2QN5O"
+  }
+}
