@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-24",
+  "movieID": "brother-bear",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "7",
+      "date": "May 5, 2020",
+      "username": "liam f",
+      "numLikes": "1320",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/2/0/5/9/6/8/shard/avtr-0-80-0-80-crop.jpg?v=ab25fb02ae",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>my theory is that this is a Joaquin Phoenix biopic to some extent and no I will not elaborate on that</p> ",
+      "link": "https://letterboxd.com/leeyim/film/brother-bear/"
+    },
+    {
+      "num_comments": "0",
+      "date": "July 12, 2024",
+      "username": "timtamtitus",
+      "numLikes": "39",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/5/9/6/7/2/0/3/shard/avtr-0-80-0-80-crop.jpg?v=fff1f80714",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>other totems include: owl of truth, beaver of faith, duck of trust and unicorn of destiny</p> ",
+      "link": "https://letterboxd.com/timtamtitus/film/brother-bear/"
+    },
+    {
+      "num_comments": "41",
+      "date": "December 23, 2020",
+      "username": "James (Schaffrillas)",
+      "numLikes": "3555",
+      "rating": "2.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/2/0/3/7/7/7/shard/avtr-0-80-0-80-crop.jpg?v=ff62b2f12e",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Disney stop turning POC into animals challenge</p> ",
+      "link": "https://letterboxd.com/schaffrillas/film/brother-bear/"
+    },
+    {
+      "num_comments": "0",
+      "date": "April 2, 2023",
+      "username": "jeaba",
+      "numLikes": "117",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/6/6/1/5/0/5/2/shard/avtr-0-80-0-80-crop.jpg?v=78d1396164",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>\"princess and the frog\" meets \"brave\"</p> ",
+      "link": "https://letterboxd.com/jeaba/film/brother-bear/"
+    },
+    {
+      "num_comments": "3",
+      "date": "February 12, 2020",
+      "username": "lauren",
+      "numLikes": "551",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/2/4/2/0/4/7/shard/blob-0-80-0-80-crop.png?v=bce82df615",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>i wanna go to alaska and hug some fluffy bears so fuckn bad man</p> ",
+      "link": "https://letterboxd.com/flynnryder/film/brother-bear/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/3ORP8WX",
+    "prime-video": "https://amzn.to/4rZin8A"
+  }
+}
