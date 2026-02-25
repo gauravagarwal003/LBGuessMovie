@@ -591,36 +591,52 @@ function handleGuess(guess) {
 // Handles sharing
 function pressShare() {
   let shareText = ''
-  // Sets share text 
+  // Sets share text
   if (gameWon) {
-    shareText = `I played "Guess The Movie" and got it in ${collectedGuesses.length} guesses! Can you do better?`;
-  }
-  else {
+    if (collectedGuesses.length === 1) {
+      shareText = `I played "Guess The Movie" and got it in 1 guess! Can you do better?`;
+    } else {
+      shareText = `I played "Guess The Movie" and got it in ${collectedGuesses.length} guesses! Can you do better?`;
+    }
+  } else {
     shareText = `I played "Guess The Movie" but wasn't able to get it. Can you?`;
   }
-  const shareData = {
-    text: shareText,
-    url: window.location.href,
-  };
-  // Check if the share API is supported
-  if (navigator.share && navigator.canShare(shareData)) {
-    navigator.share(shareData)
-  } else {
-    // If not, copy to clipboard
-    shareText += ` Play now at ${window.location.href}`;
-    navigator.clipboard.writeText(shareText)
-      .then(() => {
-        if (shareButton) {
-          shareButton.textContent = "Copied";
-          setTimeout(() => {
-            shareButton.textContent = "Share";
-          }, 4000);
-        }
-      })
-      .catch((err) => {
-        console.error("Failed to copy text: ", err);
+
+  // Put the text first and append the URL so most share targets display the message first
+  const fullShareText = `${shareText} Play now at ${window.location.href}`;
+
+  // Prefer the native Share API with a text-only payload (omit `url` so platforms don't prioritize the link)
+  if (navigator.share) {
+    navigator.share({ text: fullShareText })
+      .catch(() => {
+        // If sharing fails, fallback to copying to clipboard
+        navigator.clipboard.writeText(fullShareText)
+          .then(() => {
+            if (shareButton) {
+              shareButton.textContent = "Copied";
+              setTimeout(() => { shareButton.textContent = "Share"; }, 4000);
+            }
+          })
+          .catch((err) => {
+            console.error("Failed to copy text: ", err);
+          });
       });
+    return;
   }
+
+  // Fallback: copy the combined text to the clipboard
+  navigator.clipboard.writeText(fullShareText)
+    .then(() => {
+      if (shareButton) {
+        shareButton.textContent = "Copied";
+        setTimeout(() => {
+          shareButton.textContent = "Share";
+        }, 4000);
+      }
+    })
+    .catch((err) => {
+      console.error("Failed to copy text: ", err);
+    });
 }
 
 // Clear the search input and movie list
