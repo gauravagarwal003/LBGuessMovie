@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-25",
+  "movieID": "aftersun",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "28",
+      "date": "October 15, 2022",
+      "username": "veronica",
+      "numLikes": "21841",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/5/2/8/9/5/4/shard/avtr-0-80-0-80-crop.jpg?v=20cbb1ba6d",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>i’ll be thinking about that <i>under pressure </i>scene for a long long time, totally broke my heart</p> ",
+      "link": "https://letterboxd.com/namelessvero/film/aftersun/"
+    },
+    {
+      "num_comments": "16",
+      "date": "December 21, 2022",
+      "username": "dodi",
+      "numLikes": "15175",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/6/5/9/6/8/4/shard/avtr-0-80-0-80-crop.jpg?v=91a99c4249",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>i’m in awe of how they found the <i>exact </i>color palette of childhood memories</p> ",
+      "link": "https://letterboxd.com/dodi_/film/aftersun/"
+    },
+    {
+      "num_comments": "31",
+      "date": "November 20, 2022",
+      "username": "Patrick Willems",
+      "numLikes": "2535",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/2/6/7/4/1/9/shard/avtr-0-80-0-80-crop.jpg?v=a856408a78",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>For the first two-thirds I thought it was too slight and it wasn’t really doing much for me and then I got to the last half hour and finally realized what was going on and how much I had been missing. Anyway I’m dumb and will probably rate this higher after a second viewing</p> ",
+      "link": "https://letterboxd.com/patrickhwillems/film/aftersun/"
+    },
+    {
+      "num_comments": "1",
+      "date": "November 29, 2022",
+      "username": "coffee",
+      "numLikes": "10762",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/7/1/7/1/7/0/shard/avtr-0-80-0-80-crop.jpg?v=77dbb0d550",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>your parents are complex, flawed creatures who you can never really know until one day you look at them/the memories you’ve collected with them and realize all the tiniest details built who you are now… and how you aren’t as different from them as you’d maybe led yourself to believe. there’s no catharsis in memory, only the ability to grow</p> ",
+      "link": "https://letterboxd.com/coffeevirus/film/aftersun/1/"
+    },
+    {
+      "num_comments": "6",
+      "date": "November 14, 2022",
+      "username": "bre",
+      "numLikes": "1094",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/2/6/1/0/5/9/shard/avtr-0-80-0-80-crop.jpg?v=06f1e8314c",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>has paul mescal ever considered playing a character who is NOT severely depressed? the last twenty minutes completely took me out and i will be thinking about it for a very long time</p> ",
+      "link": "https://letterboxd.com/brebear/film/aftersun/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/3ZLKRqs",
+    "prime-video": "https://amzn.to/4qKNjsg"
+  }
+}
