@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-28",
+  "movieID": "sleepless-in-seattle",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "0",
+      "date": "February 21, 2026",
+      "username": "fini",
+      "numLikes": "45",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/2/4/4/5/3/9/6/3/shard/avtr-0-80-0-80-crop.jpg?v=a2044f56ea",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Can't stand weird micro cheating tropes</p> ",
+      "link": "https://letterboxd.com/finib0xd/film/sleepless-in-seattle/"
+    },
+    {
+      "num_comments": "2",
+      "date": "December 10, 2024",
+      "username": "kimmy!",
+      "numLikes": "73",
+      "rating": "4.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/6/5/7/8/1/2/6/shard/avtr-0-80-0-80-crop.jpg?v=b5b1b0af4e",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>i need to move in to NYC and go to the empire state building to meet my soulmate right now</p> ",
+      "link": "https://letterboxd.com/aftertasted/film/sleepless-in-seattle/"
+    },
+    {
+      "num_comments": "1",
+      "date": "April 4, 2021",
+      "username": "molly",
+      "numLikes": "2318",
+      "rating": "4.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/5/2/2/9/0/9/shard/avtr-0-80-0-80-crop.jpg?v=fcacfb5a71",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>i spent the entire movie just admiring meg ryan's hair</p> ",
+      "link": "https://letterboxd.com/mollyy/film/sleepless-in-seattle/"
+    },
+    {
+      "num_comments": "0",
+      "date": "June 17, 2025",
+      "username": "aliyah",
+      "numLikes": "82",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/7/9/7/7/9/6/shard/avtr-0-80-0-80-crop.jpg?v=b9e4f4b32d",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>somehow manages to feel like warm cookies and fluffy socks even though it’s two or three script edits away from being a horror movie. what’s a bit of light stalking for breakfast? i’ll have what she’s having!</p> ",
+      "link": "https://letterboxd.com/sapphical/film/sleepless-in-seattle/"
+    },
+    {
+      "num_comments": "0",
+      "date": "July 11, 2022",
+      "username": "porksweats",
+      "numLikes": "100",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/1/7/5/3/3/1/0/shard/http___pbs.twimg.com_profile_images_1137145192941834240_QfccF6wd-0-80-0-80-crop.jpg?v=9c5e7866cd",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>tom hanks is an architect who has no wife and a demon son and is very sad</p> ",
+      "link": "https://letterboxd.com/porksweats/film/sleepless-in-seattle/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/3OwzXCy",
+    "prime-video": "https://amzn.to/4rs04ZU"
+  }
+}
