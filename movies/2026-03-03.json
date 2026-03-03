@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-03",
+  "movieID": "et-the-extra-terrestrial",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "2",
+      "date": "February 5, 2026",
+      "username": "maiapog",
+      "numLikes": "139",
+      "rating": "",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/4/5/9/2/0/0/7/shard/avtr-0-80-0-80-crop.jpg?v=67db4dabdd",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>pounding beers and doing drag, humanity speed run</p> ",
+      "link": "https://letterboxd.com/maiapog/film/et-the-extra-terrestrial/"
+    },
+    {
+      "num_comments": "2",
+      "date": "May 20, 2020",
+      "username": "Aleister Wood ⛧",
+      "numLikes": "280",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/6/7/4/5/7/1/shard/http___pbs.twimg.com_profile_images_1007321335419359232_JdA2oAgC-0-80-0-80-crop.jpg?v=64570d0aae",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>Stranger Things fucking wishes.</p> ",
+      "link": "https://letterboxd.com/cultureshocker/film/et-the-extra-terrestrial/"
+    },
+    {
+      "num_comments": "16",
+      "date": "July 1, 2023",
+      "username": "Patrick Willems",
+      "numLikes": "4177",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/2/6/7/4/1/9/shard/avtr-0-80-0-80-crop.jpg?v=a856408a78",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>The last twenty minutes of this movie is John Williams doing Beethoven-level shit</p> ",
+      "link": "https://letterboxd.com/patrickhwillems/film/et-the-extra-terrestrial/"
+    },
+    {
+      "num_comments": "3",
+      "date": "June 4, 2022",
+      "username": "jonathan fujii",
+      "numLikes": "800",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/2/7/3/1/1/1/shard/avtr-0-80-0-80-crop.jpg?v=d4d52d1e8d",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>I would not feel that attached to something that looks like a human testicle but I still felt the magic</p> ",
+      "link": "https://letterboxd.com/jonathanfujii/film/et-the-extra-terrestrial/"
+    },
+    {
+      "num_comments": "2",
+      "date": "April 28, 2020",
+      "username": "james💫",
+      "numLikes": "306",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/1/0/4/8/3/2/shard/avtr-0-80-0-80-crop.jpg?v=7991dcdfec",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>Spielberg keeps making me CRY like a little BITCH and i’m TIRED OF IT</p> ",
+      "link": "https://letterboxd.com/demyvarda/film/et-the-extra-terrestrial/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/4cfoilr",
+    "prime-video": "https://amzn.to/4tZeuSS"
+  }
+}
