@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-04",
+  "movieID": "trolls",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "0",
+      "date": "May 15, 2021",
+      "username": "Matt Singer",
+      "numLikes": "275",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/8/7/8/6/shard/avtr-0-80-0-80-crop.jpg?v=9f674af199",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>A psychedelic treatise about the danger of eating your feelings.</p> ",
+      "link": "https://letterboxd.com/superpulse/film/trolls/"
+    },
+    {
+      "num_comments": "1",
+      "date": "January 9, 2024",
+      "username": "👽 Zara 👽",
+      "numLikes": "90",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/3/6/9/8/3/9/shard/avtr-0-80-0-80-crop.jpg?v=9990888652",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>the art direction in this goes crazy i love the variety of textures and the felt scrapbook parts,,, awesome,,,,,</p> ",
+      "link": "https://letterboxd.com/barbiesswanlake/film/trolls/"
+    },
+    {
+      "num_comments": "15",
+      "date": "January 13, 2021",
+      "username": "Mr_Bamason",
+      "numLikes": "5686",
+      "rating": "1.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/1/4/0/0/1/1/shard/avtr-0-80-0-80-crop.jpg?v=a5f65d5c11",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>You're laughing. Singing killed his grandma, and you're laughing</p> ",
+      "link": "https://letterboxd.com/mr_bamason/film/trolls/1/"
+    },
+    {
+      "num_comments": "18",
+      "date": "August 23, 2020",
+      "username": "James (Schaffrillas)",
+      "numLikes": "2255",
+      "rating": "2.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/2/0/3/7/7/7/shard/avtr-0-80-0-80-crop.jpg?v=ff62b2f12e",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Bro why do you need to autotune Justin Timberlake, he's JUSTIN TIMBERLAKE JUST LET HIM SING NORMALLY</p> ",
+      "link": "https://letterboxd.com/schaffrillas/film/trolls/"
+    },
+    {
+      "num_comments": "1",
+      "date": "April 15, 2021",
+      "username": "CursedTails",
+      "numLikes": "53",
+      "rating": "1.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/3/5/2/5/8/3/0/shard/avtr-0-80-0-80-crop.jpg?v=12bce313e9",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>The worst dreamworks movie to date. This is a movie for infants, and no one else. The songs are annoying as fuck, that cloud guy should go Kill himself, I hate the humor, the rest of the characters are unlikeable, and the plot and side plot is the dumbest thing I’ve seen. The animation is good though. I’ve only watched this once and never again. Avoid at all costs.</p> ",
+      "link": "https://letterboxd.com/cursedtails/film/trolls/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/4aGvfea",
+    "prime-video": "https://amzn.to/4aV2hpF"
+  }
+}
