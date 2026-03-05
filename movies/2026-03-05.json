@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-05",
+  "movieID": "the-texas-chain-saw-massacre",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "11",
+      "date": "October 20, 2020",
+      "username": "Wes",
+      "numLikes": "9328",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/3/2/5/2/0/4/shard/avtr-0-80-0-80-crop.jpg?v=c259b1b73f",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>southern hospitality</p> ",
+      "link": "https://letterboxd.com/cantinaband/film/the-texas-chain-saw-massacre/1/"
+    },
+    {
+      "num_comments": "12",
+      "date": "July 23, 2020",
+      "username": "liam f",
+      "numLikes": "5188",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/2/0/5/9/6/8/shard/avtr-0-80-0-80-crop.jpg?v=ab25fb02ae",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>you ever watch a film that just makes you feel so thankful that the volume-down button exists</p> ",
+      "link": "https://letterboxd.com/leeyim/film/the-texas-chain-saw-massacre/"
+    },
+    {
+      "num_comments": "5",
+      "date": "October 30, 2019",
+      "username": "ashley 🥀",
+      "numLikes": "3344",
+      "rating": "4.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/4/7/1/1/3/6/shard/avtr-0-80-0-80-crop.jpg?v=0804f9b76e",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>The scariest thing about this is the concept of having to run for your life while bra-less.</p> ",
+      "link": "https://letterboxd.com/mvlhollanddrive/film/the-texas-chain-saw-massacre/1/"
+    },
+    {
+      "num_comments": "8",
+      "date": "February 27, 2013",
+      "username": "Blair Russell",
+      "numLikes": "435",
+      "rating": "4.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/twitter/4/4/4/7/1/shard/http___a0.twimg.com_profile_images_249067246_m_790ee1dada18423a97e5c278fd3eedb4-0-80-0-80-crop.jpg?v=04c9b6c7fc",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>This movie is still a classic and there are still plenty of people who think that this is gore-soaked when you hardly see any violence for the most part; it's more the low-budget sleazy factor and the great atmosphere and mood that make it unnerving to watch. It's still effective today; if only most of the sequels/remakes/alleged sequels went with this style instead of the direction they turned to.</p> ",
+      "link": "https://letterboxd.com/blairrussell/film/the-texas-chain-saw-massacre/"
+    },
+    {
+      "num_comments": "1",
+      "date": "December 13, 2020",
+      "username": "adambolt",
+      "numLikes": "9246",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/4/6/6/3/7/7/shard/avtr-0-80-0-80-crop.jpg?v=6d2d5edf03",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>surprised he hasn't been caught yet considering he uses the loudest fucking weapon in human existence</p> ",
+      "link": "https://letterboxd.com/adambolt/film/the-texas-chain-saw-massacre/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/4l4MgSO",
+    "prime-video": "https://amzn.to/4u0WqYL"
+  }
+}
