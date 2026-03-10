@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-10",
+  "movieID": "the-pink-panther",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "0",
+      "date": "January 2, 2023",
+      "username": "Gigi",
+      "numLikes": "120",
+      "rating": "2.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/5/6/3/2/4/5/8/shard/avtr-0-80-0-80-crop.jpg?v=b8f7cae5d9",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>god i’d be so fucking silly if i had a mustache like his</p> ",
+      "link": "https://letterboxd.com/themukster/film/the-pink-panther/1/"
+    },
+    {
+      "num_comments": "1",
+      "date": "November 20, 2019",
+      "username": "colin...",
+      "numLikes": "327",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/4/1/4/0/9/8/shard/avtr-0-80-0-80-crop.jpg?v=526b7d6aed",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Genuinely one of the funniest comedies of the 2000's. Whether that is intentional or unintentional, I actually don't know.</p> ",
+      "link": "https://letterboxd.com/colinandrews/film/the-pink-panther/"
+    },
+    {
+      "num_comments": "1",
+      "date": "January 14, 2017",
+      "username": "Bis",
+      "numLikes": "282",
+      "rating": "1.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/1/0/8/8/9/shard/avtr-0-80-0-80-crop.jpg?v=0ec07ebad6",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Never forget that Beyoncé and Jason Statham have kissed.</p> ",
+      "link": "https://letterboxd.com/biskhan/film/the-pink-panther/"
+    },
+    {
+      "num_comments": "0",
+      "date": "July 28, 2021",
+      "username": "Chris Flathmann",
+      "numLikes": "263",
+      "rating": "2.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/9/5/4/7/6/3/shard/avtr-0-80-0-80-crop.jpg?v=05a9533a45",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>Still a better representation of French culture than Emily in Paris.</p> ",
+      "link": "https://letterboxd.com/cflathm/film/the-pink-panther/"
+    },
+    {
+      "num_comments": "1",
+      "date": "July 3, 2022",
+      "username": "Logan",
+      "numLikes": "64",
+      "rating": "4.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/4/9/8/0/5/5/shard/avtr-0-80-0-80-crop.jpg?v=1dfc2d8cc4",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>Why do people hate this movie, this is incredible. This is one of the best absurdist comedies I've ever seen. Every joke pretty much hits and Steve Martin is an absolute legend. People just don't like fun, I'm sorry. Steve Martin can talk in his funny little french accent any day.</p> ",
+      "link": "https://letterboxd.com/loganwhal/film/the-pink-panther/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/3OOVRRP",
+    "prime-video": "https://amzn.to/4aXoSDk"
+  }
+}
