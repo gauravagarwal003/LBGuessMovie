@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-11",
+  "movieID": "weekend-at-bernies",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "1",
+      "date": "January 29, 2025",
+      "username": "theo",
+      "numLikes": "399",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/7/5/5/0/8/9/2/shard/avtr-0-80-0-80-crop.jpg?v=7ed9175bd5",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>“it’s just so crazy, it might just work” ahh movie</p> ",
+      "link": "https://letterboxd.com/whentheometfilm/film/weekend-at-bernies/"
+    },
+    {
+      "num_comments": "0",
+      "date": "March 10, 2022",
+      "username": "ddc95",
+      "numLikes": "53",
+      "rating": "3.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/4/1/1/1/8/5/0/shard/avtr-0-80-0-80-crop.jpg?v=577018cead",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>True guilty pleasure. Definitely a product of its time. What can go wrong will go wrong comedy.</p> ",
+      "link": "https://letterboxd.com/ddc95/film/weekend-at-bernies/1/"
+    },
+    {
+      "num_comments": "4",
+      "date": "August 16, 2023",
+      "username": "Ethan Colburn",
+      "numLikes": "37",
+      "rating": "2.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/9/5/9/5/4/8/shard/avtr-0-80-0-80-crop.jpg?v=79336aef11",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>The poster child for taking a joke too far. Much like an inside joke, I found it deeply unfunny and frustrating for a while, then it hit a breaking point about 10 minutes from the end where I was enjoying the joke again. I feel like this movie’s concept is referenced much more than the actual movie is discussed. Much like Captain Phillips, it has entered the zeitgeist while still being underwetched by the general public. It is an odd experience but if you want to shut your brain off for a while and watch a dead body do funny things, it's somewhat enjoyable.</p> ",
+      "link": "https://letterboxd.com/cineflek/film/weekend-at-bernies/"
+    },
+    {
+      "num_comments": "0",
+      "date": "September 27, 2020",
+      "username": "adambolt",
+      "numLikes": "912",
+      "rating": "4.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/4/6/6/3/7/7/shard/avtr-0-80-0-80-crop.jpg?v=6d2d5edf03",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>I'm a little concerned at how hard I was laughing at the dead body</p> ",
+      "link": "https://letterboxd.com/adambolt/film/weekend-at-bernies/"
+    },
+    {
+      "num_comments": "0",
+      "date": "May 10, 2025",
+      "username": "bella",
+      "numLikes": "32",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/1/6/6/9/2/5/2/shard/avtr-0-80-0-80-crop.jpg?v=18426887e8",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p><i>\"what kind of a host invites you to his house for the weekend and dies on you?\"</i></p><p>ANDREW MCCARTHY SUPREMACY!!! i loved this movie wayyyy too much it was laugh out loud hilarious!!</p> ",
+      "link": "https://letterboxd.com/bellamarcello/film/weekend-at-bernies/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/3MUERsJ",
+    "prime-video": "https://amzn.to/4b82yXT"
+  }
+}
