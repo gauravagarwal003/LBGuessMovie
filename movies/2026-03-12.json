@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-12",
+  "movieID": "the-aviator",
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "num_comments": "0",
+      "date": "October 19, 2023",
+      "username": "anna nomaly",
+      "numLikes": "320",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/8/2/3/1/shard/avtr-0-80-0-80-crop.jpg?v=b4dafdf26f",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>CITIZEN PLANE.</p> ",
+      "link": "https://letterboxd.com/annanomaly/film/the-aviator/1/"
+    },
+    {
+      "num_comments": "6",
+      "date": "October 28, 2019",
+      "username": "Cameron Kanachki",
+      "numLikes": "180",
+      "rating": "5.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/2/9/7/6/8/5/shard/avtr-0-80-0-80-crop.jpg?v=24131130ce",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>One of the greatest biopics ever made.</p> ",
+      "link": "https://letterboxd.com/cameronkanachki/film/the-aviator/"
+    },
+    {
+      "num_comments": "1",
+      "date": "July 4, 2025",
+      "username": "andy",
+      "numLikes": "93",
+      "rating": "3.5",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/1/9/7/3/8/2/9/1/shard/avtr-0-80-0-80-crop.jpg?v=60c2e5b932",
+      "liked": false,
+      "collapsed": false,
+      "text": " <p>The first half feels like Scorsese doing his best Wes Anderson impression.</p><p>Also, can we please bring back art deco bathrooms?</p> ",
+      "link": "https://letterboxd.com/andylaw/film/the-aviator/"
+    },
+    {
+      "num_comments": "0",
+      "date": "November 11, 2022",
+      "username": "Graham",
+      "numLikes": "121",
+      "rating": "4.5",
+      "profilePhotoLink": "https://secure.gravatar.com/avatar/201a529b0671a21b603cee7d32d6eb40?rating=PG&size=80&border=&default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80-CTtJ8HSs.png",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>Brilliant, but totally unbelievable. At one point, Leo was dating a woman that looked older than he did!</p> ",
+      "link": "https://letterboxd.com/theportman/film/the-aviator/"
+    },
+    {
+      "num_comments": "8",
+      "date": "February 23, 2020",
+      "username": "Josh Lewis",
+      "numLikes": "2149",
+      "rating": "4.0",
+      "profilePhotoLink": "https://a.ltrbxd.com/resized/avatar/upload/7/1/6/5/6/shard/avtr-0-80-0-80-crop.jpg?v=a052171a7a",
+      "liked": true,
+      "collapsed": false,
+      "text": " <p>Solid movie about an extremely normal guy just being a cool dude. Flying planes, dating teenagers, drinking milk, making movies, taking about titties and llamas, having crippling disorders (that can be traced to visions of American success ingrained in childhood) exacerbated by an industry and culture that celebrates wealth and \"progress\" above anything else.</p> ",
+      "link": "https://letterboxd.com/thejoshl/film/the-aviator/1/"
+    }
+  ],
+  "affiliate_links": {
+    "amazon-dvd": "https://amzn.to/46RrksD",
+    "prime-video": "https://amzn.to/40ZuVBn"
+  }
+}
